@@ -5,3 +5,4 @@ func Run() error {
 }
 // drop an unused branch
 // clarify the control flow
+// drop an unused branch
